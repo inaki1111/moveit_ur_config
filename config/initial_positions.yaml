@@ -1,10 +1,10 @@
 # Default initial positions for ur5's ros2_control fake system
 
 initial_positions:
-  elbow_joint: 0
-  robotiq_85_left_knuckle_joint: 0
-  shoulder_lift_joint: 0
-  shoulder_pan_joint: 0
-  wrist_1_joint: 0
-  wrist_2_joint: 0
-  wrist_3_joint: 0
+  elbow_joint: -1.5062191444711064
+  robotiq_85_left_knuckle_joint: 0.4537856055185257
+  shoulder_lift_joint: -0.15533430342749532
+  shoulder_pan_joint: 2.303834612632515
+  wrist_1_joint: -1.8151424220741028
+  wrist_2_joint: -0.017453292519943295
+  wrist_3_joint: 0.5759586531581288
